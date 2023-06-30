@@ -6,4 +6,4 @@ Ce projet a été récemment achevé le 10 juin 2023. Il s'agit d'un système qui a é
 
 # Vidéo de démonstration à venir
 
-Je prévois de créer une vidéo détaillée qui explique le fonctionnement complet du système d'ici le 30 juin. Cette vidéo fournira une démonstration pas à pas et mettra en évidence les fonctionnalités clés du projet.
+Je prévois de créer une vidéo détaillée qui explique le fonctionnement complet du système d'ici le 15 juillet. Cette vidéo fournira une démonstration pas à pas et mettra en évidence les fonctionnalités clés du projet.
